@@ -8,9 +8,7 @@
 
 - 🌱 I am currently learning **PHP**
 
-- 🤝 I am looking for an alternation on **Java or Python development**
-
-- 👨‍💻 All of my projects are available at [https://avitalsika.wixsite.com/portfolio](https://avitalsika.wixsite.com/portfolio)
+- 🤝 I am looking for an alternation on **Java PHP or Python development**
 
 - 📫 How to reach me **avital.6k@gmail.com**
 
