@@ -6,7 +6,7 @@
 
 - 🔭 I am currently studying on **computer science in development**
 
-- 🌱 I am currently learning **PHP with Symfony and Java with Spring**
+- 🌱 I am currently learning **PHP with Symfony** and **Java with Spring**
 
 - 🤝 I am looking for an alternation 
 
