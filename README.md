@@ -6,9 +6,9 @@
 
 - 🔭 I am currently studying on **computer science in development**
 
-- 🌱 I am currently learning **PHP**
+- 🌱 I am currently learning **PHP with Symfony and Java with Spring**
 
-- 🤝 I am looking for an alternation on **Java PHP or Python development**
+- 🤝 I am looking for an alternation 
 
 - 📫 How to reach me **avital.6k@gmail.com**
 
